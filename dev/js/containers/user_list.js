@@ -5,7 +5,7 @@ import {selectUser} from "../actions/index";
 
 class UserList extends Component {
     createListItems() {
-        return this.props.users.map(function(user) {
+        return this.props.users.map((user) => {
             return(
                 <li
                     key={user.id}

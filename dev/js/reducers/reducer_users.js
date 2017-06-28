@@ -14,7 +14,7 @@ export default function() {
             last: "Shah",
             age: 33,
             description: "Little bud.",
-            thumbnail: "http://cdn.worldscreen.com.tw/uploadfile/201512/goods_009837_164501.jpg"
+            thumbnail: "https://pbs.twimg.com/media/Cv-5s2YVIAA3cEC.jpg"
         },
         {
             id: 3,
